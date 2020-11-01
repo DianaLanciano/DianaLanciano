@@ -57,7 +57,7 @@ Want to become a full-time fullstack Develoepr 💻❤️.
 <br/>
 
 <p>
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/DianaLanciano">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dianaLanciano&show_icons=true&theme=algolia" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dianaLanciano&theme=algolia&layout=compact" />
 </a>
