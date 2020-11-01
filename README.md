@@ -10,11 +10,36 @@ I'm A FullStack Developer 🚀 from Israel. Always working on some project or le
 Want to become a full-time fullstack Develoepr 💻❤️.
 </p>
 <h3> 💻 &nbsp;About Me </h3>
-- 👨‍💻  &nbsp; I’m currently working on web development technologies like JavaScript, Node.js, React,C#.
-- 🎓 &nbsp; I'm a Computer Science student.
-- 🎨&nbsp;I'm a self-taught, continuously searching for greater challenges.
+- 👨‍💻 I’m currently working on web development technologies like JavaScript, Node.js, React,C#.  
+- 🎓 I'm a Computer Science student.  
+- 🎨 I'm a self-taught, continuously searching for greater challenges.  
 <br/>
 
+<h3> 🛠 &nbsp;Tech Stack</h3>
+
+- ✍🧰 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat-square&logo=html5)
+  ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat-square&logo=css3)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![jQuery](https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jquery)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Express.js](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+
+- 🛢 &nbsp;
+  &nbsp;![SQLServer](https://img.shields.io/badge/-Sql_Server-333333?style=flat&logo=microsoft-sql-server)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=5d2b90)
+<br />
+
+<br/>
 
 
 <p>
