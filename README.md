@@ -2,7 +2,7 @@
 <!--
 **DianaLanciano/DianaLanciano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### Hi there 👋, I'm [Diana Lanciano](https://github.com/DianaLanciano) 👨‍💻
+# Hi there 👋, I'm [Diana Lanciano](https://github.com/DianaLanciano) 👨‍💻
 
 ## I'm a Computer Science Student  
 
@@ -10,7 +10,7 @@
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
-### Languages and Tools 🛠 
+# Languages and Tools 🛠 
 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
