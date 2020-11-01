@@ -12,8 +12,14 @@ Want to become a full-time fullstack Develoepr 💻❤️.
 
 <h3> 💻 &nbsp;About Me </h3>
 -  👨‍💻&nbsp; I’m currently working on web development technologies like JavaScript, Node.js, React,C#.
+
 - 🎓&nbsp; I'm a Computer Science student.
+
 - 🐱‍🏍&nbsp; I’m self-taught, continuously searching for greater challenges. 
+
+- 📫 How to reach me: isakovdiana1@gmail.com
+
+
 
 
 
