@@ -2,7 +2,7 @@
 <!--
 **DianaLanciano/DianaLanciano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-# Hi there 👋, I'm [Diana Lanciano](https://github.com/DianaLanciano) 👨‍💻
+# Hi there 👋, I'm [Diana Lanciano](https://github.com/DianaLanciano) 
 <br/>
 <p>
 I'm A FullStack Developer 🚀 from Israel. Always working on some project or learning something new!
