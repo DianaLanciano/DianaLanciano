@@ -49,13 +49,6 @@ Want to become a full-time fullstack Develoepr 💻❤️.
 <br/>
 
 
-<p>
-<a href="https://github.com/DianaLanciano">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dianaLanciano&show_icons=true&theme=algolia" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dianaLanciano&theme=algolia&layout=compact" />
-</a>
-</p>
-
 ### Connect with me 📝
 [<img align="left" alt="dianaLanciano | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg"/>][linkedin]
 [<img align="left" alt="isakovdiana1 | Gmail" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/281/281786.svg"/>][gmail]
