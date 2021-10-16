@@ -51,7 +51,7 @@ I'm A FullStack Developer 🚀 from Israel. Always working on some project or le
 
 ### Connect with me 📝
 [<img align="left" alt="dianaLanciano | LinkedIn" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/1200px-Linkedin_icon.svg.png"/>][linkedin]
-[<img align="left" alt="isakovdiana1 | Gmail" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/281/281786.svg"/>][gmail]
+[<img align="left" alt="isakovdiana1 | Gmail" height="30px" src="https://img.favpng.com/24/23/1/inbox-by-gmail-icon-email-google-contacts-png-favpng-Y7AqcJ3ZdyF9W77CmRC3nnsvZ.jpg"/>][gmail]
 
 
 [linkedin]: https://www.linkedin.com/in/diana-lanciano-91590a176/
