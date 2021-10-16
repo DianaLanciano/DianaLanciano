@@ -2,19 +2,19 @@
 <!--
 **DianaLanciano/DianaLanciano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-# Hi there ![myAvatar](https://user-images.githubusercontent.com/62158562/137596371-4364fc99-a7d2-4363-a5aa-29aa353c20a8.png)
+# Hi there 
 👋, I'm [Diana Lanciano](https://github.com/DianaLanciano) 
 <br/>
+<img width="76" alt="myAvatar" src="https://user-images.githubusercontent.com/62158562/137596434-82ab0463-4e6e-43b5-b591-9a97f6590497.png">
+
 <p>
 I'm A FullStack Developer 🚀 from Israel. Always working on some project or learning something new!
 <br/>
-Want to become a full-time fullstack Develoepr 💻❤️.
-</p>
 
 <h3> 💻 About Me </h3>
 
 -  👨‍💻 I’m currently working on web development technologies like JavaScript, Node.js, React,C#.
-- 🎓 I'm a Computer Science student.
+- 🎓 I'm a fulltime fullstack developer.
 - 🐱‍🏍I’m self-taught, continuously searching for greater challenges.
 - 📫 How to reach me: isakovdiana1@gmail.com
 
