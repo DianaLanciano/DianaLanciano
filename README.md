@@ -5,9 +5,8 @@
 # Hi there 
 👋, I'm [Diana Lanciano](https://github.com/DianaLanciano) 
 <br/>
-<img width="76" alt="myAvatar" src="https://user-images.githubusercontent.com/62158562/137596434-82ab0463-4e6e-43b5-b591-9a97f6590497.png">
 
-<img width="106" alt="myAvatar (1)" src="https://user-images.githubusercontent.com/62158562/137596473-4e7678b8-d1b6-4271-a64b-6b7d06d1948e.png">
+<img width="128" alt="myAvatar (2)" src="https://user-images.githubusercontent.com/62158562/137596516-da484967-eb8d-416a-a824-eb07e2642315.png">
 
 <p>
 I'm A FullStack Developer 🚀 from Israel. Always working on some project or learning something new!
