@@ -13,7 +13,7 @@ I'm A FullStack Developer 🚀 from Israel. Always working on some project or le
 <h3> 💻 About Me </h3>
 
 -  👨‍💻 I’m currently working on web development technologies like JavaScript, Node.js, React,C#.
-- 🎓 I'm a fulltime fullstack developer.
+- 🎓 I'm a full time fullstack developer.
 - 🐱‍🏍I’m self-taught, continuously searching for greater challenges.
 - 📫 How to reach me: isakovdiana1@gmail.com
 
