@@ -5,7 +5,7 @@
 # Hi there 
 👋, I'm [Diana Lanciano](https://github.com/DianaLanciano) 
 <br/>
-<img width="128" alt="myAvatar (2)" src="https://user-images.githubusercontent.com/62158562/137596816-4743f47c-567a-4cf3-abd4-e61f138ab239.png">
+![Screen Shot 2022-03-13 at 15 22 57](https://user-images.githubusercontent.com/62158562/158061368-dee7e26b-416c-4913-95b2-bcf4e1c69ef9.png)
 <p>
 I'm A FullStack Developer 🚀 from Israel. Always working on some project or learning something new!
 <br/>
