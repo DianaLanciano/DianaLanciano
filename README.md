@@ -15,7 +15,7 @@ I'm A FullStack Developer 🚀 from Israel. Always working on some project or le
 -  👨‍💻 I’m currently working on web development technologies like JavaScript, Node.js, React,C#.
 - 🎓 I'm a full time fullstack developer with a computer science degree.
 - 🐱‍🏍I’m self-taught, continuously searching for greater challenges.
-- 📫 How to reach me: dianalanciano@yahoo.com
+- 📫 How to reach me: isakovdiana1@gmail.com
 
 
 
